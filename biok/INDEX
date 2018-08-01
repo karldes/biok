@@ -1,0 +1,18 @@
+average_degree          average_degree Function
+c_clusters              c_clusters Function
+c_stability             c_stability Function
+clusters_info           clusters_info Function
+convert                 convert Function
+count_relationships     count_relationships Function
+find_relationships      find_relationships Function
+is_stable               is_stable Function
+mixture_clusters_stats
+                        mixture_clusters_stats Function
+mixture_matrix          mixture_matrix Function
+network_frame           network_frame Function
+pred_prey_clusters_stats
+                        pred_prey_clusters_stats Function
+predator_prey_matrix    predator_prey_matrix Function
+random_clusters_stats   random_clusters_stats Function
+random_matrix           random_matrix Function
+sd_clusters             sd_clusters Function
